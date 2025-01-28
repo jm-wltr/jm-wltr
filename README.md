@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jaime Walter (@jm-wltr)
-- 👀 I’m interested in machine learning.
-- ⌨️ I code mostly in Java and Python.
+- 👀 I’m interested in machine learning and EdTech.
 - 🎓 I'm currently studying CS at Penn.
 
 <!---
